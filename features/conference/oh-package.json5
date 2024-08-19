@@ -1,0 +1,13 @@
+{
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "author": "",
+  "name": "conference",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ohos/utils": "file:../../commons/utils",
+    "@ohos/uicomponents": "file:../../commons/uicomponents"
+  }
+}

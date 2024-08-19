@@ -1,0 +1,216 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "我的模块"
+    },
+    {
+      "name": "page_show",
+      "value": "页面展示"
+    },
+    {
+      "name": "my_collected",
+      "value": "收藏"
+    },
+    {
+      "name": "my_viewed",
+      "value": "浏览"
+    },
+    {
+      "name": "my_achieve",
+      "value": "成就"
+    },
+    {
+      "name": "preference_title",
+      "value": "主题定制"
+    },
+    {
+      "name": "preference_subtitle",
+      "value": "选择你感兴趣的主题获得更精准的内容推荐"
+    },
+    {
+      "name": "topic",
+      "value": "文章"
+    },
+    {
+      "name": "feed",
+      "value": "资讯"
+    },
+    {
+      "name": "next_step",
+      "value": "下一步"
+    },
+    {
+      "name": "complete",
+      "value": "完成"
+    },
+    {
+      "name": "default_login",
+      "value": "登录账号"
+    },
+    {
+      "name": "default_description",
+      "value": "登录后享受更多精彩服务"
+    },
+    {
+      "name": "font_family_harmony_heiti",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "article",
+      "value": "文章"
+    },
+    {
+      "name": "total_achieve_count",
+      "value": "成就数量 %d/8"
+    },
+    {
+      "name": "to_view",
+      "value": "去浏览第一篇文章或资讯"
+    },
+    {
+      "name": "to_collected",
+      "value": "去添加第一个收藏"
+    },
+    {
+      "name": "failed_message",
+      "value": "网络请求失败，请重试"
+    },
+    {
+      "name": "achieves_button",
+      "value": "知道啦"
+    },
+    {
+      "name": "editPhoto",
+      "value": "更换图片"
+    },
+    {
+      "name": "reason",
+      "value": "保存图片"
+    },
+    {
+      "name": "crop_photo",
+      "value": "修剪照片"
+    },
+    {
+      "name": "sure",
+      "value": "确定"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "sure_cancel",
+      "value": "确定放弃修改头像？"
+    },
+    {
+      "name": "use_local_device",
+      "value": "使用本机"
+    },
+    {
+      "name": "select_from_gallery",
+      "value": "从图库中选择"
+    },
+    {
+      "name": "login_btn_default_title",
+      "value": "登录华为账号"
+    },
+    {
+      "name": "login_btn_default_descriptions",
+      "value": "可使用云空间/应用市场等服务"
+    },
+    {
+      "name": "dark_mode_btn_title",
+      "value": "深色模式"
+    },
+    {
+      "name": "common_mode_on_describe",
+      "value": "已开启"
+    },
+    {
+      "name": "common_mode_off_describe",
+      "value": "已关闭"
+    },
+    {
+      "name": "settings_title",
+      "value": "设置"
+    },
+    {
+      "name": "dark_mode_timed",
+      "value": "定时开启"
+    },
+    {
+      "name": "dark_mode_all_day",
+      "value": "全天开启"
+    },
+    {
+      "name": "dark_mode_follow_up",
+      "value": "跟随系统"
+    },
+    {
+      "name": "dark_mode_settings_timed_card_remark",
+      "value": "定时开启时，应用会在重新亮屏后才切换深色模式，以免影响您的使用。"
+    },
+    {
+      "name": "start_time_des",
+      "value": "开始时间"
+    },
+    {
+      "name": "end_time_des",
+      "value": "结束时间"
+    },
+    {
+      "name": "hours_minutes",
+      "value": "%s:%s"
+    },
+    {
+      "name": "early_morning",
+      "value": "凌晨 %s"
+    },
+    {
+      "name": "in_morning",
+      "value": "早上 %s"
+    },
+    {
+      "name": "mornings",
+      "value": "上午 %s"
+    },
+    {
+      "name": "noons",
+      "value": "中午 %s"
+    },
+    {
+      "name": "afternoons",
+      "value": "下午 %s"
+    },
+    {
+      "name": "nighttime",
+      "value": "晚上 %s"
+    },
+    {
+      "name": "midnight",
+      "value": "半夜 %s"
+    },
+    {
+      "name": "next_day",
+      "value": "次日"
+    },
+    {
+      "name": "hmos_account",
+      "value": "HMOS账号"
+    },
+    {
+      "name": "personal_info",
+      "value": "个人信息"
+    },
+    {
+      "name": "logout",
+      "value": "退出登录"
+    },
+    {
+      "name": "same_time_warning",
+      "value": "开始时间和结束时间不能相同"
+    }
+  ]
+}

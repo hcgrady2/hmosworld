@@ -1,0 +1,35 @@
+{
+  "routerMap": [
+    {
+      "name": "ConfirmView",
+      "pageSourceFile": "src/main/ets/views/ConfirmView.ets",
+      "buildFunction": "PhotoConfirmBuilder"
+    },
+    {
+      "name": "PhotoView",
+      "pageSourceFile": "src/main/ets/views/PhotoView.ets",
+      "buildFunction": "PhotoViewBuilder"
+    },
+    {
+      "name": "SettingView",
+      "pageSourceFile": "src/main/ets/views/SettingView.ets",
+      "buildFunction": "SettingViewBuilder"
+    },
+    {
+      "name": "UserAccountView",
+      "pageSourceFile": "src/main/ets/views/UserAccountView.ets",
+      "buildFunction": "UserAccountViewBuilder"
+    },
+
+    {
+      "name": "ThemeConfigView",
+      "pageSourceFile": "src/main/ets/views/ThemeConfigView.ets",
+      "buildFunction": "ThemeConfigViewBuilder"
+    },
+    {
+      "name": "MineArticleDetail",
+      "pageSourceFile": "src/main/ets/views/ArticleDetailView.ets",
+      "buildFunction": "MineArticleDetailBuilder"
+    }
+  ]
+}

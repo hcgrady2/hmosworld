@@ -1,0 +1,216 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "mine module"
+    },
+    {
+      "name": "page_show",
+      "value": "page from npm package"
+    },
+    {
+      "name": "my_collected",
+      "value": "Collected"
+    },
+    {
+      "name": "my_viewed",
+      "value": "Viewed"
+    },
+    {
+      "name": "my_achieve",
+      "value": "Achieved"
+    },
+    {
+      "name": "preference_title",
+      "value": "Guess you like"
+    },
+    {
+      "name": "preference_subtitle",
+      "value": "Select topics you're interested in to get more precise content recommendations."
+    },
+    {
+      "name": "topic",
+      "value": "Topic"
+    },
+    {
+      "name": "feed",
+      "value": "Feed"
+    },
+    {
+      "name": "article",
+      "value": "Article"
+    },
+    {
+      "name": "next_step",
+      "value": "Next"
+    },
+    {
+      "name": "complete",
+      "value": "Complete"
+    },
+    {
+      "name": "default_login",
+      "value": "login_account"
+    },
+    {
+      "name": "default_description",
+      "value": "login for more infomation"
+    },
+    {
+      "name": "font_family_harmony_heiti",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "total_achieve_count",
+      "value": "Achieve Count %d/8"
+    },
+    {
+      "name": "to_view",
+      "value": "To view the first article or feed"
+    },
+    {
+      "name": "to_collected",
+      "value": "To add the first favorite"
+    },
+    {
+      "name": "failed_message",
+      "value": "network failed, please reload"
+    },
+    {
+      "name": "achieves_button",
+      "value": "I got it"
+    },
+    {
+      "name": "editPhoto",
+      "value": "Edit photo"
+    },
+    {
+      "name": "reason",
+      "value": "Save photo"
+    },
+    {
+      "name": "crop_photo",
+      "value": "Crop photo"
+    },
+    {
+      "name": "sure",
+      "value": "Sure"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "sure_cancel",
+      "value": "Are you sure you want to cancel changing the profile picture?"
+    },
+    {
+      "name": "use_local_device",
+      "value": "use local device"
+    },
+    {
+      "name": "select_from_gallery",
+      "value": "select from gallery"
+    },
+    {
+      "name": "login_btn_default_title",
+      "value": "Log in with Huawei ID"
+    },
+    {
+      "name": "login_btn_default_descriptions",
+      "value": "Can use services such as cloud space and application market"
+    },
+    {
+      "name": "dark_mode_btn_title",
+      "value": "Dark Mode"
+    },
+    {
+      "name": "common_mode_on_describe",
+      "value": "Opened"
+    },
+    {
+      "name": "common_mode_off_describe",
+      "value": "Closed"
+    },
+    {
+      "name": "settings_title",
+      "value": "Set-up"
+    },
+    {
+      "name": "dark_mode_timed",
+      "value": "Scheduled start"
+    },
+    {
+      "name": "dark_mode_all_day",
+      "value": "On all day"
+    },
+    {
+      "name": "dark_mode_follow_up",
+      "value": "Follow-up system"
+    },
+    {
+      "name": "dark_mode_settings_timed_card_remark",
+      "value": "If this option is selected, the APP will switch to Dark mode only after the screen is turned on again. so as not to affect your use."
+    },
+    {
+      "name": "start_time_des",
+      "value": "Start Time"
+    },
+    {
+      "name": "end_time_des",
+      "value": "End Time"
+    },
+    {
+      "name": "hours_minutes",
+      "value": "%s:%s"
+    },
+    {
+      "name": "early_morning",
+      "value": "Early morning %s"
+    },
+    {
+      "name": "in_morning",
+      "value": "In the morning %s"
+    },
+    {
+      "name": "mornings",
+      "value": "Mornings %s"
+    },
+    {
+      "name": "noons",
+      "value": "Noons %s"
+    },
+    {
+      "name": "afternoons",
+      "value": "afternoons %s"
+    },
+    {
+      "name": "nighttime",
+      "value": "Nighttime %s"
+    },
+    {
+      "name": "midnight",
+      "value": "Midnight %s"
+    },
+    {
+      "name": "next_day",
+      "value": "The next day"
+    },
+    {
+      "name": "hmos_account",
+      "value": "HMOS Account"
+    },
+    {
+      "name": "personal_info",
+      "value": "Personal Information"
+    },
+    {
+      "name": "logout",
+      "value": "Logout"
+    },
+    {
+      "name": "same_time_warning",
+      "value": "The start time and end time cannot be the same."
+    }
+  ]
+}

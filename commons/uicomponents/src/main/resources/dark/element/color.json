@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "skeleton_color_medium",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "interactive_linearGradient_color_1",
+      "value": "#00000000"
+    },
+    {
+      "name": "interactive_linearGradient_color_2",
+      "value": "#ff000000"
+    }
+  ]
+}

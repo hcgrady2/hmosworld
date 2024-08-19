@@ -1,0 +1,88 @@
+{
+  "float": [
+    {
+      "name": "topic_title_font",
+      "value": "12fp"
+    },
+    {
+      "name": "topic_image_size_md",
+      "value": "48vp"
+    },
+    {
+      "name": "topic_image_size_lg",
+      "value": "60vp"
+    },
+    {
+      "name": "topic_navigation_height",
+      "value": "56vp"
+    },
+    {
+      "name": "topic_size_md",
+      "value": "96vp"
+    },
+    {
+      "name": "topic_size_lg",
+      "value": "120vp"
+    },
+    {
+      "name": "topic_border",
+      "value": "16vp"
+    },
+    {
+      "name": "topic_icon_size_md",
+      "value": "20vp"
+    },
+    {
+      "name": "topic_icon_size_lg",
+      "value": "24vp"
+    },
+    {
+      "name": "xxl_padding_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "xl_padding_margin",
+      "value": "20vp"
+    },
+    {
+      "name": "lg_padding_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "md_padding_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "topic_icon_border",
+      "value": "3vp"
+    },
+    {
+      "name": "topic_back_size",
+      "value": "40vp"
+    },
+    {
+      "name": "topic_main_font",
+      "value": "20fp"
+    },
+    {
+      "name": "topic_sub_font",
+      "value": "14fp"
+    },
+    {
+      "name": "topic_title_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "topic_title_padding",
+      "value": "15vp"
+    },
+    {
+      "name": "topic_type_font",
+      "value": "18fp"
+    },
+    {
+      "name": "ListItemGroup_padding",
+      "value": "40vp"
+    }
+  ]
+}

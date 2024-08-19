@@ -1,0 +1,15 @@
+{
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "author": "",
+  "name": "topic",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ohos/network": "file:../../commons/network",
+    "@ohos/utils": "file:../../commons/utils",
+    "@ohos/datastore": "file:../../commons/datastore",
+    "@ohos/uicomponents": "file:../../commons/uicomponents"
+  }
+}

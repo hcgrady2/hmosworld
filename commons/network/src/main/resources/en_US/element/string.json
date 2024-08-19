@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "network module"
+    },
+    {
+      "name": "network_error_msg",
+      "value": "The network seems to have deserted"
+    }
+  ]
+}

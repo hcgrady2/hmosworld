@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "preference_title",
+      "value": "preference title"
+    },
+    {
+      "name": "preference_subtitle",
+      "value": "\nChoose the topic you are interested in to get more accurate content recommendation."
+    },
+    {
+      "name": "topic",
+      "value": "topic"
+    },
+    {
+      "name": "feed",
+      "value": "feed"
+    },
+    {
+      "name": "complete",
+      "value": "complete"
+    },
+    {
+      "name": "topic_title_family",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "topic_title_main_family",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "topic_update_success",
+      "value": "The theme is set successfully"
+    },
+    {
+      "name": "topic_update_fail",
+      "value": "Failed to set the theme"
+    },
+    {
+      "name": "saving",
+      "value": "Saving %s"
+    }
+  ]
+}

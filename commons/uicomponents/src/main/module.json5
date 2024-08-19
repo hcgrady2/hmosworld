@@ -1,0 +1,13 @@
+{
+  "module": {
+    "name": "uicomponents",
+    "type": "har",
+    "description": "$string:shared_desc",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ]
+//    "pages": "$profile:main_pages"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storePassword": "0000001DBA1EA72AB57535BE624EA0B1C61A83F3228158B31F89A50CE802B11725BE979C54E94D0E84FA3AE3B4",
+          "certpath": "./signature/HmosWorld.cer",
+          "keyAlias": "HmosWorld2024",
+          "keyPassword": "0000001D1AC05C16C5FBB2BE4856D1D3763C11C6AAB6FCA8982109931D46F72F731182793683531528BB880E48",
+          "profile": "./signature/HmosWorldProfileDebug.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "./signature/HmosWorld.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "phone",
+      "srcPath": "./products/phone",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "discover",
+      "srcPath": "./features/discover"
+    },
+    {
+      "name": "learning",
+      "srcPath": "./features/learning"
+    },
+    {
+      "name": "topic",
+      "srcPath": "./features/topic"
+    },
+    {
+      "name": "login",
+      "srcPath": "./features/login"
+    },
+    {
+      "name": "challenge",
+      "srcPath": "./features/challenge"
+    },
+    {
+      "name": "mine",
+      "srcPath": "./features/mine"
+    },
+    {
+      "name": "conference",
+      "srcPath": "./features/conference"
+    },
+    {
+      "name": "uicomponents",
+      "srcPath": "./commons/uicomponents"
+    },
+    {
+      "name": "utils",
+      "srcPath": "./commons/utils"
+    },
+    {
+      "name": "network",
+      "srcPath": "./commons/network"
+    },
+    {
+      "name": "datastore",
+      "srcPath": "./commons/datastore"
+    },
+    {
+      "name": "audioplayer",
+      "srcPath": "./commons/audioplayer"
+    }
+  ]
+}

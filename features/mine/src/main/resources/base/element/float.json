@@ -1,0 +1,284 @@
+{
+  "float": [
+    {
+      "name": "font_size_lg",
+      "value": "18fp"
+    },
+    {
+      "name": "default_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "regular_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "large_border_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "topic_margin_right",
+      "value": "25vp"
+    },
+    {
+      "name": "header_height",
+      "value": "48vp"
+    },
+    {
+      "name": "title_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "brief_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "card_height",
+      "value": "102vp"
+    },
+    {
+      "name": "image_border_radius",
+      "value": "8vp"
+    },
+    {
+      "name": "login_size",
+      "value": "30vp"
+    },
+    {
+      "name": "topic_image_size",
+      "value": "36vp"
+    },
+    {
+      "name": "account_image_size",
+      "value": "30vp"
+    },
+    {
+      "name": "achievements_count_padding_top",
+      "value": "10vp"
+    },
+    {
+      "name": "achievements_count_padding_bottom",
+      "value": "10vp"
+    },
+    {
+      "name": "achievement_image_size_sm",
+      "value": "84vp"
+    },
+    {
+      "name": "achievement_image_size_md",
+      "value": "96vp"
+    },
+    {
+      "name": "achievement_image_size_lg",
+      "value": "106vp"
+    },
+    {
+      "name": "xxl_padding_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "xl_padding_margin",
+      "value": "20vp"
+    },
+    {
+      "name": "lg_padding_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "md_padding_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "ss_padding_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "resource_image_height",
+      "value": "64vp"
+    },
+    {
+      "name": "resource_image_width",
+      "value": "108vp"
+    },
+    {
+      "name": "small_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "resource_type_font_padding",
+      "value": "6vp"
+    },
+    {
+      "name": "resource_type_font_margin_left_right",
+      "value": "5vp"
+    },
+    {
+      "name": "resource_type_font_margin_top_bottom",
+      "value": "3vp"
+    },
+    {
+      "name": "resource_type_font_border_radius",
+      "value": "5vp"
+    },
+    {
+      "name": "topics_font_border_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "topics_font_border_padding_top_bottom",
+      "value": "2vp"
+    },
+    {
+      "name": "star_icon_width",
+      "value": "16vp"
+    },
+    {
+      "name": "like_icon_width",
+      "value": "22vp"
+    },
+    {
+      "name": "resource_list_margin_10",
+      "value": "10vp"
+    },
+    {
+      "name": "nav_title_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "mine_tab_margin",
+      "value": "5vp"
+    },
+    {
+      "name": "divider_width_32",
+      "value": "32vp"
+    },
+    {
+      "name": "user_portrait_border_radius",
+      "value": "15vp"
+    },
+    {
+      "name": "tabs_border_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "tab_bar_height",
+      "value": "56vp"
+    },
+    {
+      "name": "user_padding_top",
+      "value": "32vp"
+    },
+    {
+      "name": "user_image_size",
+      "value": "48vp"
+    },
+    {
+      "name": "xxl_border_radius",
+      "value": "24vp"
+    },
+    {
+      "name": "user_account_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "login_account_padding_bottom",
+      "value": "2vp"
+    },
+    {
+      "name": "account_margin_bottom",
+      "value": "15vp"
+    },
+    {
+      "name": "achievement_list_padding_left_right",
+      "value": "6vp"
+    },
+    {
+      "name": "tab_bar_width",
+      "value": "200vp"
+    },
+    {
+      "name": "user_background_height_lg",
+      "value": "150vp"
+    },
+    {
+      "name": "user_background_height_md",
+      "value": "120vp"
+    },
+    {
+      "name": "enlarge_img_size",
+      "value": "36vp"
+    },
+    {
+      "name": "sm_padding_margin",
+      "value": "8vp"
+    },
+    {
+      "name": "button_change_width",
+      "value": "120vp"
+    },
+    {
+      "name": "normal_icon_size",
+      "value": "24vp"
+    },
+    {
+      "name": "fold_image_top",
+      "value": "66vp"
+    },
+    {
+      "name": "pad_image_top",
+      "value": "32vp"
+    },
+    {
+      "name": "pad_image_botton",
+      "value": "50vp"
+    },
+    {
+      "name": "tab_big_img_width",
+      "value": "32vp"
+    },
+    {
+      "name": "button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "safe_logo_margin",
+      "value": "136vp"
+    },
+    {
+      "name": "text_right_margin",
+      "value": "34vp"
+    },
+    {
+      "name": "menu_font_size",
+      "value": "15fp"
+    },
+    {
+      "name": "menu_height",
+      "value": "44vp"
+    },
+    {
+      "name": "menu_padding",
+      "value": "17vp"
+    },
+    {
+      "name": "list_item_height",
+      "value": "42vp"
+    },
+    {
+      "name": "lg_time_picker_dialog_width",
+      "value": "432vp"
+    },
+    {
+      "name": "icon_size_sm",
+      "value": "18vp"
+    },
+    {
+      "name": "setting_modal_height",
+      "value": "560vp"
+    },
+    {
+      "name": "setting_modal_width",
+      "value": "480vp"
+    }
+  ]
+}

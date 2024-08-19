@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "discover",
+      "value": "Discover"
+    },
+    {
+      "name": "more",
+      "value": "More"
+    },
+    {
+      "name": "technical_articles",
+      "value": "Technical articles"
+    },
+    {
+      "name": "hot_feeds",
+      "value": "Hot feeds"
+    },
+    {
+      "name": "feed",
+      "value": "Feed"
+    },
+    {
+      "name": "article",
+      "value": "Article"
+    },
+    {
+      "name": "like",
+      "value": "Like"
+    },
+    {
+      "name": "collect",
+      "value": "Collect"
+    },
+    {
+      "name": "load_failed",
+      "value": "Load filed"
+    },
+    {
+      "name": "failed_message",
+      "value": "network failed, please reload"
+    },
+    {
+      "name": "no_search_result",
+      "value": "No search result"
+    },
+    {
+      "name": "search_history",
+      "value": "History"
+    },
+    {
+      "name": "search_discovery",
+      "value": "Discovery"
+    },
+    {
+      "name": "hmos_world_hot_list",
+      "value": "Hotspots"
+    },
+    {
+      "name": "confirm_delete_search_history",
+      "value": "Confirm delete all history?"
+    },
+    {
+      "name": "hot_label",
+      "value": "hot"
+    }
+  ]
+}

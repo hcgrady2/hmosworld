@@ -1,0 +1,24 @@
+{
+  "apiType": 'stageMode',
+  "buildOption": {
+    "arkOptions": {
+      "apPath": "./phone.ap",
+      "obfuscation": {
+        "ruleOptions": {
+          "enable": false
+        }
+      }
+    },
+    "napiLibFilterOption": {
+      "pickFirsts": [],
+      "pickLasts": [],
+      "excludes": [],
+      "enableOverride": true
+    }
+  },
+  "targets": [
+    {
+      "name": "default",
+    }
+  ]
+}

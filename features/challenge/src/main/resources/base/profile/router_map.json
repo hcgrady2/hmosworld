@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "ChallengeDetailView",
+      "pageSourceFile": "src/main/ets/views/ChallengeDetailView.ets",
+      "buildFunction": "ChallengeDetailViewBuilder",
+      "data": {
+        "description": "this is ChallengeDetailPage"
+      }
+    }
+  ]
+}

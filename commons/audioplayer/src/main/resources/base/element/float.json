@@ -1,0 +1,36 @@
+{
+  "float": [
+    {
+      "name": "sm_icon_size",
+      "value": "12vp"
+    },
+    {
+      "name": "md_icon_size",
+      "value": "28vp"
+    },
+    {
+      "name": "lg_icon_size",
+      "value": "40vp"
+    },
+    {
+      "name": "icon_border_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "audio_playing_size",
+      "value": "36vp"
+    },
+    {
+      "name": "audio_play_size",
+      "value": "22vp"
+    },
+    {
+      "name": "audio_player_default_width",
+      "value": "136vp"
+    },
+    {
+      "name": "audio_player_default_height",
+      "value": "44vp"
+    }
+  ]
+}

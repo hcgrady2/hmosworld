@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "网络模块"
+    },
+    {
+      "name": "network_error_msg",
+      "value": "网络似乎开小差了"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "color": [
+    {
+      "name": "theme_blue_color",
+      "value": "#0A59F0"
+    },
+    {
+      "name": "hmos_medium_black",
+      "value": "#99000000"
+    },
+    {
+      "name": "hmos_regular_gray",
+      "value": "#66000000"
+    },
+    {
+      "name": "hmos_light_white",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "hmos_background_color_white",
+      "value": "#FAFAFA"
+    },
+    {
+      "name": "hmos_color_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "hmos_toggle_point_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "hmos_toggle_background_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "hmos_font_color_white",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "hmos_article_card_color_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "skeleton_color_medium",
+      "value": "#FFF2F3F4"
+    },
+    {
+      "name": "achieve_background_color",
+      "value": "#373737"
+    },
+    {
+      "name": "back_color",
+      "value": "#111111"
+    },
+    {
+      "name": "font_color",
+      "value": "#317AF7"
+    },
+    {
+      "name": "selected_bg_end",
+      "value": "#DCEAF9"
+    },
+    {
+      "name": "setting_selected_bg",
+      "value": "#1A0A59F7"
+    },
+    {
+      "name": "clear_color",
+      "value": "#00FFFFFF"
+    },
+    {
+      "name": "selected_color_left",
+      "value": "#FFDCEAF9"
+    },
+    {
+      "name": "selected_color_right",
+      "value": "#FFF1F3F5"
+    }
+  ]
+}

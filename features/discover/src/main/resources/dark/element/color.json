@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "article_background_color",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "page_background_color",
+      "value": "#FF000000"
+    },
+    {
+      "name": "shadow_color",
+      "value": "#1400001E"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "modelVersion": "5.0.0",
+  "license": "",
+  "devDependencies": {
+    "@ohos/hypium": "1.0.15"
+  },
+  "author": "",
+  "name": "hmosworld",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "@hw-agconnect/cloud": "^1.0.2",
+    "@hw-agconnect/hmcore": "^1.0.2",
+    "long": "5.2.1"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "float": [
+    {
+      "name": "common_border_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "navigation_title_size",
+      "value": "24fp"
+    },
+    {
+      "name": "navigation_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "navigation_height",
+      "value": "56vp"
+    },
+    {
+      "name": "menu_width",
+      "value": "64vp"
+    },
+    {
+      "name": "btn_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "font_size_normal",
+      "value": "14fp"
+    },
+    {
+      "name": "font_size_small",
+      "value": "12fp"
+    },
+    {
+      "name": "font_size_large",
+      "value": "18fp"
+    },
+    {
+      "name": "achieve_close_icon_size",
+      "value": "24vp"
+    },
+    {
+      "name": "achieve_img_size",
+      "value": "240vp"
+    },
+    {
+      "name": "achieve_close_icon_margin_top",
+      "value": "20vp"
+    },
+    {
+      "name": "achieve_text_margin_top",
+      "value": "16vp"
+    },
+    {
+      "name": "achieve_btn_margin_top",
+      "value": "36vp"
+    },
+    {
+      "name": "achieve_btn_width",
+      "value": "192vp"
+    },
+    {
+      "name": "achieve_margin_top",
+      "value": "-64vp"
+    },
+    {
+      "name": "achieve_title_line_height",
+      "value": "24vp"
+    },
+    {
+      "name": "star_icon_width",
+      "value": "20vp"
+    },
+    {
+      "name": "comment_icon_size",
+      "value": "40vp"
+    },
+    {
+      "name": "comment_line_height",
+      "value": "28vp"
+    },
+    {
+      "name": "time_line_height",
+      "value": "20vp"
+    },
+    {
+      "name": "comment_user_line_height",
+      "value": "22vp"
+    },
+    {
+      "name": "achieve_btn_height",
+      "value": "36vp"
+    },
+    {
+      "name": "dialog_height",
+      "value": "424vp"
+    },
+    {
+      "name": "sm_dialog_width",
+      "value": "336vp"
+    },
+    {
+      "name": "md_dialog_width",
+      "value": "360vp"
+    },
+    {
+      "name": "lg_dialog_width",
+      "value": "380vp"
+    },
+    {
+      "name": "md_padding_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "divider_height",
+      "value": "0.5vp"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HMOS世界"
+    },
+    {
+      "name": "pull_up_load_text",
+      "value": "加载中..."
+    },
+    {
+      "name": "network_exception",
+      "value": "网络似乎开小差了"
+    },
+    {
+      "name": "skip",
+      "value": "跳过"
+    },
+    {
+      "name": "tab_discover",
+      "value": "探索"
+    },
+    {
+      "name": "tab_learning",
+      "value": "学习"
+    },
+    {
+      "name": "tab_challenge",
+      "value": "溪村挑战赛"
+    },
+    {
+      "name": "tab_activity",
+      "value": "活动"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "topic_title_family",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "topic_title_family_sub",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "splash_main_title",
+      "value": "HarmonyOS世界"
+    },
+    {
+      "name": "splash_sub_title",
+      "value": "欢迎来到HarmonyOS开发者世界"
+    },
+    {
+      "name": "splash_button_title",
+      "value": "开始学习之旅!"
+    },
+    {
+      "name": "button_agree",
+      "value": "同意"
+    },
+    {
+      "name": "button_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "safe_desc1_str1",
+      "value": "本应用需"
+    },
+    {
+      "name": "safe_desc1_str2",
+      "value": "联网"
+    },
+    {
+      "name": "safe_desc1_str3",
+      "value": "调用"
+    },
+    {
+      "name": "safe_desc1_str4",
+      "value": "XX、XX"
+    },
+    {
+      "name": "safe_desc1_str5",
+      "value": "权限、使用XX信息、提供XX服务。同时为了提开体用体验，将基于你的”同意\"开启增值服务。有关个人信息处理的详情可参阅关于"
+    },
+    {
+      "name": "safe_desc1_str6",
+      "value": "HMOS世界与隐私的声明"
+    },
+    {
+      "name": "safe_desc1_str7",
+      "value": "、权限使用说明。"
+    },
+    {
+      "name": "safe_desc2",
+      "value": "请仔细阅读以上声明。点击\"同意\"，即表示您同意XX用户协议、开启增值服务功能。"
+    },
+    {
+      "name": "welcome_to_use",
+      "value": "欢迎使用"
+    },
+    {
+      "name": "service_desc",
+      "value": "阅读最新的鸿蒙资讯与技术文章"
+    },
+    {
+      "name": "privacy_statement",
+      "value": "隐私声明"
+    },
+    {
+      "name": "PhoneFormAbility_desc",
+      "value": "热门发现"
+    },
+    {
+      "name": "PhoneFormAbility_label",
+      "value": "HarmonyOS世界"
+    },
+    {
+      "name": "popular_findings",
+      "value": "热门发现"
+    },
+    {
+      "name": "internet_reason",
+      "value": "请求网络数据"
+    },
+    {
+      "name": "network_reason",
+      "value": "获取网络信息"
+    },
+    {
+      "name": "location_reason",
+      "value": "get your current location"
+    },
+    {
+      "name": "background_task_reason",
+      "value": "允许在后台运行"
+    },
+    {
+      "name": "write_image_video_permission_reason",
+      "value": "允许读写您公共目录的图片或视频文件"
+    },
+    {
+      "name": "distributed_data_sync",
+      "value": "允许不同设备间的数据交换"
+    }
+  ]
+}

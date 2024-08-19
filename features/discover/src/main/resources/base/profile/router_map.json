@@ -1,0 +1,24 @@
+{
+  "routerMap": [
+    {
+      "name": "FeedWaterFlowView",
+      "pageSourceFile": "src/main/ets/views/FeedWaterFlowView.ets",
+      "buildFunction": "FeedWaterFlowBuilder"
+    },
+    {
+      "name": "DiscoverArticleDetail",
+      "pageSourceFile": "src/main/ets/views/ArticleDetailView.ets",
+      "buildFunction": "DiscoverArticleDetailBuilder"
+    },
+    {
+      "name": "SearchView",
+      "pageSourceFile": "src/main/ets/views/SearchView.ets",
+      "buildFunction": "SearchViewBuilder"
+    },
+    {
+      "name": "SearchResultView",
+      "pageSourceFile": "src/main/ets/views/SearchResultView.ets",
+      "buildFunction": "SearchResultBuilder"
+    }
+  ]
+}

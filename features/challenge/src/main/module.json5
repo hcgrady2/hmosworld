@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "challenge",
+    "type": "har",
+    "description": "$string:shared_desc",
+    "routerMap": "$profile:router_map",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ]
+  }
+}

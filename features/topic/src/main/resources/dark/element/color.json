@@ -1,0 +1,12 @@
+{
+  "color": [
+    {
+      "name": "topic_color",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "item_white_bg",
+      "value": "#66000000"
+    }
+  ]
+}
